@@ -1,3 +1,3 @@
 # Hola
 
-Lorem
+Lorem ipsum
